@@ -1,0 +1,5 @@
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice2\bin\Debug\Exercice2.exe.config
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice2\bin\Debug\Exercice2.exe
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice2\bin\Debug\Exercice2.pdb
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice2\obj\Debug\Exercice2.exe
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice2\obj\Debug\Exercice2.pdb

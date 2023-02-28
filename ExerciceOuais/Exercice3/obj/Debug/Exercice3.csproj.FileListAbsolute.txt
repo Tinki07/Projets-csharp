@@ -1,0 +1,6 @@
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\obj\Debug\Exercice3.csprojAssemblyReference.cache
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\bin\Debug\Exercice3.exe.config
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\bin\Debug\Exercice3.exe
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\bin\Debug\Exercice3.pdb
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\obj\Debug\Exercice3.exe
+C:\Users\bastien.allouard\source\repos\ExerciceOuais\Exercice3\obj\Debug\Exercice3.pdb
