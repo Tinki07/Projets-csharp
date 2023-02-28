@@ -1,0 +1,28 @@
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.dll
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.xml
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csprojAssemblyReference.cache
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CopyComplete
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\Users\bastien.allouard\source\repos\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.dll
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.xml
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.AssemblyReference.cache
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CoreCompileInputs.cache
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CopyComplete
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+F:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.dll
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\bin\Debug\LibBanque.xml
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csprojAssemblyReference.cache
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CopyComplete
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+E:\BTS SIO\Programmation\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb
