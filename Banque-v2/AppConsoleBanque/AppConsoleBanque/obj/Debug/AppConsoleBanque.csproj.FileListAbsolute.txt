@@ -1,0 +1,10 @@
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe.config
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.exe
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\bin\Debug\AppConsoleBanque.pdb
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\bin\Debug\libBanque.dll
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\bin\Debug\libBanque.xml
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.csproj.CopyComplete
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.exe
+C:\Users\basti\source\repos\Banque-v2\AppConsoleBanque\AppConsoleBanque\obj\Debug\AppConsoleBanque.pdb

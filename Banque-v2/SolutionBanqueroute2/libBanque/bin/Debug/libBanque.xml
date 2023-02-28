@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>libBanque</name>
+    </assembly>
+    <members>
+        <member name="T:libBanque.AgenceBancaire">
+            <summary>
+            Classe Agence bancaire
+            </summary>
+        </member>
+        <member name="M:libBanque.AgenceBancaire.#ctor(System.String)">
+            <summary>
+            initialise une nouvelle instance de la classe AgenceBancaire
+            </summary>
+            <param name="sonNom">Le nom de l'agence</param>
+        </member>
+        <member name="P:libBanque.AgenceBancaire.LesComptes">
+            <summary>
+            Obtient la liste des comptes
+            </summary>
+        </member>
+        <member name="P:libBanque.AgenceBancaire.NomAgence">
+            <summary>
+            Le nom de l'agence
+            </summary>
+        </member>
+        <member name="M:libBanque.AgenceBancaire.NombreComptes">
+            <summary>
+             obtient le nombre de comptes gérés par l'agence
+            </summary>
+            <returns>Le nombre de comptes</returns>
+        </member>
+        <member name="M:libBanque.AgenceBancaire.AjouterCompte(libBanque.CompteBancaire)">
+            <summary>
+            Enregistre la création d'un nouveau compte
+            </summary>
+            <param name="unCompte">Le compte à ajouter</param>
+        </member>
+        <member name="M:libBanque.AgenceBancaire.SupprimerCompte(libBanque.CompteBancaire)">
+            <summary>
+            Enregistre la supression d'un compte
+            </summary>
+            <param name="unCompte">Le compte à supprimer</param>
+        </member>
+        <member name="T:libBanque.CompteBancaire">
+            <summary>
+            classe CompteBancaire
+            </summary>
+        </member>
+        <member name="P:libBanque.CompteBancaire.NumCompte">
+            <summary>
+            le numéro du compte bancaire
+            </summary>
+        </member>
+        <member name="P:libBanque.CompteBancaire.NomTitulaire">
+            <summary>
+            le nom du titulaire du compte bancaire
+            </summary>
+        </member>
+        <member name="P:libBanque.CompteBancaire.SoldeCompte">
+            <summary>
+            le solde du compte bancaire
+            </summary>
+        </member>
+        <member name="M:libBanque.CompteBancaire.#ctor(System.String,System.String)">
+            <summary>
+            initialise une nouvelle instance de la classe CompteBancaire
+            </summary>
+            <param name="sonNumero">Le numéro du compte bancaire</param>
+            <param name="sonTitulaire">le titulaire du compte bancaire</param>
+        </member>
+        <member name="M:libBanque.CompteBancaire.#ctor(System.String,System.String,System.Decimal)">
+            <summary>
+            initialise une nouvelle instance de la classe CompteBancaire
+            </summary>
+            <param name="sonNumero">Le numéro du compte bancaire</param>
+            <param name="sonTitulaire">le titulaire du compte bancaire</param>
+            <param name="sonSoldeInitial">le solde du compte bancaire</param>
+        </member>
+        <member name="M:libBanque.CompteBancaire.DebiterCompte(System.Decimal)">
+            <summary>
+            Permet de débiter un certain montant sur le compte choisi
+            </summary>
+            <param name="montant">montant à débiter sur le compte</param>
+            <returns></returns>
+        </member>
+        <member name="M:libBanque.CompteBancaire.CrediterCompte(System.Decimal)">
+            <summary>
+            Permet de crediter un compte
+            </summary>
+            <param name="montant">Le montant de la transaction</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

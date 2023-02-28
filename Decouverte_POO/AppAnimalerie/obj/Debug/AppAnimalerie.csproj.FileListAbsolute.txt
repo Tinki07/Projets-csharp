@@ -1,0 +1,19 @@
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.exe.config
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.exe
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.pdb
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\bin\Debug\libAnimalerie.dll
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\bin\Debug\libAnimalerie.xml
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.csprojAssemblyReference.cache
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.csproj.CopyComplete
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.exe
+C:\Users\bastien.allouard\source\repos\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.pdb
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.exe.config
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.exe
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\bin\Debug\AppAnimalerie.pdb
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\bin\Debug\libAnimalerie.dll
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\bin\Debug\libAnimalerie.xml
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.csproj.AssemblyReference.cache
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.csproj.CoreCompileInputs.cache
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.csproj.CopyComplete
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.exe
+F:\BTS SIO\Programmation\Decouverte_POO\AppAnimalerie\obj\Debug\AppAnimalerie.pdb

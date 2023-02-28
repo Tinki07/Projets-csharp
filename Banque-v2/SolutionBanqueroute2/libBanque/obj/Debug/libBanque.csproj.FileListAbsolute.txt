@@ -1,0 +1,7 @@
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\bin\Debug\libBanque.xml
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\bin\Debug\libBanque.dll
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\bin\Debug\libBanque.pdb
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\obj\Debug\libBanque.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\obj\Debug\libBanque.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\obj\Debug\libBanque.dll
+C:\Users\basti\source\repos\Banque-v2\SolutionBanqueroute2\libBanque\obj\Debug\libBanque.pdb
